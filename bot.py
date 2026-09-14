@@ -98,7 +98,7 @@ async def logUserBot():
 
         try:
             for i in groups_info:
-                if i["group_name"] not in ["Peru Sin Filtro", "PERU SIN FILTRO"]:
+                if i["group_name"] not in ["Peru Sin limites", "PERU SIN FILTRO"]:
 
                     j = 0
 
